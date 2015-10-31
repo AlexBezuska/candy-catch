@@ -1,6 +1,9 @@
 ### Candy Catch
 a SplatJS game tutorial by Alex Bezuska
 
+#To get back to this page: 
+#http://tinyurl.com/candycatch
+
 Here is what we did last time:
 - Keyboard controls
 - Animated sprites
