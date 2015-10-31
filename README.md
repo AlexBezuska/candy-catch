@@ -1,7 +1,7 @@
 ### Candy Catch
 a SplatJS game tutorial by Alex Bezuska
 
-#To get back to this page: 
+#To get back to this page:
 #http://tinyurl.com/candycatch
 
 Here is what we did last time:
@@ -36,8 +36,8 @@ http://pixieengine.com/
 ###### Upload your own assets using this simple image host:
 http://postimage.org/
 
-###### Get involved in the Louisville Game Developer Community
-[GameDevLou](http://www.louisvillemakesgames.org)
+###### New local non-profit to promote gamedev education & careers:
+[Louisville Makes Games!](http://www.louisvillemakesgames.org)
 
 
 ###### Get involved in the Louisville Game Developer Community
