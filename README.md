@@ -1,6 +1,8 @@
 ### Candy Catch
 a SplatJS game tutorial by Alex Bezuska
 
+# [Try the game](http://louisvillemakesgames.org/education/projects/candycatch/)
+
 #To get back to this page:
 #http://tinyurl.com/candycatch
 
